@@ -1,6 +1,6 @@
 # Optimizing Delivery ETAs with Graph-Based Network Intelligence
 
-**Summer Analytics 2026 | CAIC IIT Gandhinagar**  
+ 
 **Dataset:** Delhivery Logistics Network (141,725 trips)
 
 ---
