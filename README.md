@@ -2,7 +2,9 @@
 
 **Summer Analytics 2026 | IIT Guwahati 
 **Dataset:** Delhivery Logistics Network (141,725 trips)  
-**Tech Stack:** Python, NetworkX, XGBoost, Streamlit, Pandas, Matplotlib
+**Tech Stack:** Python, NetworkX, XGBoost, Streamlit, Pandas, Matplotlib  
+**GitHub Repository:** https://github.com/I-M-Saurav/delivery-eta-project  
+**Live Dashboard:** https://delivery-eta.streamlit.app
 
 ---
 
