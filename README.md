@@ -157,20 +157,7 @@ pip install pandas numpy matplotlib seaborn networkx scikit-learn jupyter xgboos
 streamlit run src/dashboard.py
 ```
 
----
 
-## 📋 Deliverables Checklist
-
-| Requirement | Status |
-|-------------|--------|
-| Graph construction & data pipeline | ✅ Complete |
-| Bottleneck & corridor audit | ✅ Complete |
-| Graph-enhanced ETA prediction model | ✅ Complete |
-| FTL vs Carting decision framework | ✅ Complete |
-| Network Operations Strategy Memo | ✅ Complete |
-| Live Streamlit dashboard | ✅ Complete |
-
----
 
 ## 📝 Strategy Memo
 
