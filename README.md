@@ -7,7 +7,7 @@
 **Live Dashboard:** https://delivery-eta.streamlit.app
 
 ---
-**Team Member:** Saurav Kumar
+**Team Member:** Saurav Kumar, Md Kasif, Martein D Gayakwad 
 
 ## 🚀 Project Overview
 
